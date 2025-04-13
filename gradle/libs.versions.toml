@@ -1,7 +1,7 @@
 [versions]
 agp = "8.4.2"
-cucumberAndroid = "4.4.1"
-cucumberPicocontainer = "4.4.0"
+cucumberAndroid = "7.14.0"
+cucumberPicocontainer = "7.17.0"
 junit = "4.13.2"
 junitVersion = "1.2.1"
 espressoCore = "3.6.1"
