@@ -1,6 +1,6 @@
 package es.unizar.eina.demonstrator.test;
 
-import cucumber.api.CucumberOptions;
+import io.cucumber.junit.CucumberOptions;
 
 @CucumberOptions(
         features = {"features"}
